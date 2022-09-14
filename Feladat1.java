@@ -23,7 +23,6 @@ public class Feladat1
          */
 
 
-
         System.out.printf("A medence térfogata %.3f köbméter", terfogat);
 
 
